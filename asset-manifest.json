@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//vincor1986.github.io/lexical/static/css/main.48bc1b16.css",
+    "main.js": "/http//vincor1986.github.io/lexical/static/js/main.beeb5e50.js",
+    "index.html": "/http//vincor1986.github.io/lexical/index.html",
+    "main.48bc1b16.css.map": "/http//vincor1986.github.io/lexical/static/css/main.48bc1b16.css.map",
+    "main.beeb5e50.js.map": "/http//vincor1986.github.io/lexical/static/js/main.beeb5e50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bc1b16.css",
+    "static/js/main.beeb5e50.js"
+  ]
+}
