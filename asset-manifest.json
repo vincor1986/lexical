@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lexical/static/css/main.bbaad481.css",
-    "main.js": "/lexical/static/js/main.cf563300.js",
+    "main.css": "/lexical/static/css/main.8fd46772.css",
+    "main.js": "/lexical/static/js/main.fd1070b0.js",
     "index.html": "/lexical/index.html",
-    "main.bbaad481.css.map": "/lexical/static/css/main.bbaad481.css.map",
-    "main.cf563300.js.map": "/lexical/static/js/main.cf563300.js.map"
+    "main.8fd46772.css.map": "/lexical/static/css/main.8fd46772.css.map",
+    "main.fd1070b0.js.map": "/lexical/static/js/main.fd1070b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbaad481.css",
-    "static/js/main.cf563300.js"
+    "static/css/main.8fd46772.css",
+    "static/js/main.fd1070b0.js"
   ]
 }
